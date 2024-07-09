@@ -1,7 +1,7 @@
 # .
 
 If you are interested in visiting this creation that you spent 2 days on, welcome)
-[Site](https://vue-shop12.netlify.app/vue-shop/home)
+[Site](https://vue-shop12.netlify.app)
 
 This template should help get you started developing with Vue 3 in Vite.
 
