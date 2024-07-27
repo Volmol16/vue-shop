@@ -1,6 +1,6 @@
 # .
 
-If you are interested in visiting this creation, which I spent 2 days on, welcome)
+I think this will become one of my pet projects in which I will try to use Vue to the fullest
 [Site](https://vue-shop12.netlify.app)
 
 ![](https://github.com/Volmol16/vue-shop/blob/main/img/photo_2024-07-14_17-27-15.jpg)
